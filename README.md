@@ -17,6 +17,7 @@ This project demonstrates practical Python development including system monitori
 
 ---
 
+
 ## Technologies
 
 - Python
