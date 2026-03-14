@@ -7,14 +7,6 @@ If the charger is unplugged, the system immediately triggers a desktop notificat
 
 This project demonstrates practical Python development including system monitoring, GUI development, and API integration.
 
----
-
-## Screenshot
-
-![LaptopGuard](screenshot.png)
-
----
-
 ## Features
 
 - Real-time charger disconnection detection
