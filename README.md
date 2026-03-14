@@ -72,7 +72,6 @@ LaptopGuard
 ├ main.py
 ├ requirements.txt
 ├ README.md
-└ screenshot.png
 ```
 
 ---
